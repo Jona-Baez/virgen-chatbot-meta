@@ -14,7 +14,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "action": {
-                    "button": "Ver las 3 opciones",
+                    "button": "Ver las opciones",
                     "sections": [
                         {
                             "title": "Acciones",//Limitado a 10 acciones
@@ -32,7 +32,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119403",
                                     "title": "Una oracion para cada dia del mes",//Limitado a 26 caracteres
-                                    "description": "30 Oraciones poderosas, incluye novenas y plegarias milagrosas."//Limitado a 70 caracteres
+                                    "description": "Oraciones poderosas, incluye novenas y plegarias milagrosas."//Limitado a 70 caracteres
                                 }
                             ]
                         }
