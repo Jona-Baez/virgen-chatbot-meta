@@ -22,12 +22,12 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119401",
                                     "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "*GRATIS* Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
+                                    "description": " *GRATIS* Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119402",
                                     "title": "📍 Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "GRATIS. Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
+                                    "description": " *GRATIS* Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119403",
