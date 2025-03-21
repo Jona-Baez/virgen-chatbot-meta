@@ -27,7 +27,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119402",
                                     "title": "📍 Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "2. Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
+                                    "description": "*GRATIS.* Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119403",
