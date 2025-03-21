@@ -33,7 +33,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                     "id": "smartia119403",
                                     "title": "📅 Festividades",//Limitado a 26 caracteres
                                     "description": "3. Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
-                                },
+                                }/*,
                                 {
                                     "id": "smartia119404",
                                     "title": "🎉 Padir oraciones",//Limitado a 26 caracteres
@@ -69,6 +69,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                     "title": "🎥 Imagen",//Limitado a 26 caracteres
                                     "description": "10. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"//Limitado a 70 caracteres
                                 }
+                                */
                             ]
                         }
                     ]
