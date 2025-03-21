@@ -22,7 +22,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119401",
                                     "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "GRATIS. Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
+                                    "description": "*GRATIS* Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119402",
@@ -31,7 +31,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "📅 Una oracion diaria",//Limitado a 26 caracteres
+                                    "title": "📅 Una oración diaria",//Limitado a 26 caracteres
                                     "description": "45 PESOS Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 }/*,
                                 {
