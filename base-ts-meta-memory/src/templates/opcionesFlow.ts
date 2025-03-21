@@ -20,7 +20,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                             "title": "Acciones",//Limitado a 10 acciones
                             "rows": [
                                 {
-                                    "id": "Smartia119401",
+                                    "id": "smartia119401",
                                     "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
                                     "description": "1. Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },

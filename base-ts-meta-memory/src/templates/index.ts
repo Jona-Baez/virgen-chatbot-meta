@@ -1,7 +1,7 @@
 import { createFlow } from "@builderbot/bot";
 import { mainFlow } from "./mainFlow";
 import { opcionesFlow } from "./opcionesFlow";
-import { Smartia119401Flow } from "./list_templates/Smartia119401Flow";//1
+import { unoFlow } from "./list_templates/unoFlow";//1
 import { sucursalesFlow } from "./list_templates/sucursalesFlow";//2
 import { reservacionesFlow } from "./list_templates/reservacionesFlow";//3
 import { paquetesFlow } from "./list_templates/paquetesFlow";//4
@@ -13,10 +13,11 @@ import { audioFlow } from "./list_templates/audioFlow";//9
 import { imagenFlow } from "./list_templates/imagenFlow";//10
 
 
+
 export default createFlow ([
     mainFlow,
-    opcionesFlow,
-    Smartia119401Flow,//1
+    opcionesFlow,    
+    unoFlow,//1
     sucursalesFlow,//2
     reservacionesFlow,//3
     paquetesFlow,//4
