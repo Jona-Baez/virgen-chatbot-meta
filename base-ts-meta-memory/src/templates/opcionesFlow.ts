@@ -22,42 +22,42 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "SM23022501",
                                     "title": "📖 Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "a"
+                                    "description": "Conocer la historia y milagros de la Virgen de Guadalupe."
                                 },
                                 {
                                     "id": "SM23022502",
-                                    "title": "🕊️ Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "b."
+                                    "title": "🕊️ Santo Rosario Guadalupano",//Limitado a 26 caracteres
+                                    "description": "Aprender cómo rezar el Santo Rosario Guadalupano."
                                 },
                                 {
                                     "id": "SM23022503",
                                     "title": "📅 Festividades",//Limitado a 26 caracteres
-                                    "description": "c"
+                                    "description": "Reserva tu mesa fácilmente"
                                 },
                                 {
                                     "id": "SM23022504",
-                                    "title": "",//Limitado a 26 caracteres
-                                    "description": ""
+                                    "title": "🎉 Paquetes y eventos",//Limitado a 26 caracteres
+                                    "description": "Conoce nuestros paquetes especiales"
                                 },
                                 {
                                     "id": "SM23022505",
-                                    "title": "",//Limitado a 26 caracteres
-                                    "description": ""
+                                    "title": "🎟️ Promociones y cupones",//Limitado a 26 caracteres
+                                    "description": "Aprovecha nuestras ofertas exclusivas"
                                 },
                                 {
                                     "id": "SM23022506",
-                                    "title": "",
-                                    "description": ""
+                                    "title": "📝 Quejas y sugerencias",
+                                    "description": "Tu opinión nos ayuda a mejorar"
                                 },
                                 {
                                     "id": "SM23022507",
-                                    "title": "",
-                                    "description": ""
+                                    "title": "📋 Contratación",
+                                    "description": "Únete a nuestro equipo"
                                 },
                                 {
                                     "id": "SM23022508",
-                                    "title": "",
-                                    "description": ""
+                                    "title": "💳 Facturación",
+                                    "description": "Solicita tu factura aquí"
                                 },
                                 {
                                     "id": "SM230225audio",
