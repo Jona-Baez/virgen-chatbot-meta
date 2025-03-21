@@ -27,22 +27,22 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119402",
                                     "title": "📍 Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "*GRATIS.* Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
+                                    "description": "2. GRATIS.Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "",//Limitado a 26 caracteres
-                                    "description": ""//Limitado a 70 caracteres
+                                    "title": "📅 Festividades",//Limitado a 26 caracteres
+                                    "description": "3. Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119404",
-                                    "title": "",//Limitado a 26 caracteres
-                                    "description": "k"//Limitado a 70 caracteres
+                                    "title": "🎉 Padir oraciones",//Limitado a 26 caracteres
+                                    "description": "4. Pedir oraciones y encender una vela virtual."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119405",
-                                    "title": "kk",//Limitado a 26 caracteres
-                                    "description": "jk"//Limitado a 70 caracteres
+                                    "title": "🎟️ Guías devocionales",//Limitado a 26 caracteres
+                                    "description": "5. Descargar materiales como oraciones y guías devocionales."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119406",
