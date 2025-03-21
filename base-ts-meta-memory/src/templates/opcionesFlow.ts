@@ -32,7 +32,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119403",
                                     "title": "📅 Una oración diaria",//Limitado a 26 caracteres
-                                    "description": "45 PESOS Devocionarios, oraciones y plegarias milagrosas para el mes."//Limitado a 70 caracteres
+                                    "description": "*45 PESOS* Devocionarios y plegarias milagrosas para todo el mes."//Limitado a 70 caracteres
                                 }/*,
                                 {
                                     "id": "smartia119404",
