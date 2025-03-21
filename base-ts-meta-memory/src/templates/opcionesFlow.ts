@@ -21,7 +21,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                             "rows": [
                                 {
                                     "id": "SM23022501",
-                                    "title": "🍽️ Alimentos y bebidas",//Limitado a 26 caracteres
+                                    "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
                                     "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
                                 },
                                 {
