@@ -14,7 +14,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "action": {
-                    "button": "Ver las opciones",
+                    "button": "Ver las 10 opciones",
                     "sections": [
                         {
                             "title": "Acciones",//Limitado a 10 acciones
@@ -31,8 +31,13 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "Una oracion para cada dia del mes",//Limitado a 26 caracteres
-                                    "description": "Oraciones poderosas, incluye novenas y plegarias milagrosas."//Limitado a 70 caracteres
+                                    "title": "Una oración para cada día del mes",//Limitado a 26 caracteres
+                                    "description": "9. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
+                                },
+                                {
+                                    "id": "SM230225imagen",
+                                    "title": "🎥 Imagen",//Limitado a 26 caracteres
+                                    "description": "10. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"//Limitado a 70 caracteres
                                 }
                             ]
                         }
