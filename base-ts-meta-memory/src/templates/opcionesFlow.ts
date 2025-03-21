@@ -22,7 +22,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "SM23022501",
                                     "title": "🍽️ Alimentos y bebidas",//Limitado a 26 caracteres
-                                    "description": "Descarga nuestra carta"
+                                    "description": "Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022502",
@@ -46,17 +46,17 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "SM23022506",
-                                    "title": "📝 Quejas y sugerencias",
+                                    "title": "📝 Quejas y sugerencias",//Limitado a 26 caracteres
                                     "description": "Tu opinión nos ayuda a mejorar"
                                 },
                                 {
                                     "id": "SM23022507",
-                                    "title": "📋 Contratación",
+                                    "title": "📋 Contratación",//Limitado a 26 caracteres
                                     "description": "Únete a nuestro equipo"
                                 },
                                 {
                                     "id": "SM23022508",
-                                    "title": "💳 Facturación",
+                                    "title": "💳 Facturación",//Limitado a 26 caracteres
                                     "description": "Solicita tu factura aquí"
                                 },
                                 {
