@@ -8,7 +8,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "body": {
-                    "text": "Descarga y lleva la devoción a la Virgen de Guadalupe siempre contigo"
+                    "text": "¿En qué te puedo ayudar?"
                 },
                 "footer": {
                     "text": ""
@@ -21,17 +21,17 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                             "rows": [
                                 {
                                     "id": "SM23022501",
-                                    "title": "📖 Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "Conocer la historia y milagros de la Virgen de Guadalupe."
+                                    "title": "🍽️ Alimentos y bebidas",//Limitado a 26 caracteres
+                                    "description": "Descarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022502",
-                                    "title": "🕊️ Santo Rosario Guadalupano",//Limitado a 26 caracteres
-                                    "description": "Aprender cómo rezar el Santo Rosario Guadalupano."
+                                    "title": "📍 Sucursales y horarios",//Limitado a 26 caracteres
+                                    "description": "Conoce las diferentes ubicaciones"
                                 },
                                 {
                                     "id": "SM23022503",
-                                    "title": "📅 Festividades",//Limitado a 26 caracteres
+                                    "title": "📅 Reservaciones",//Limitado a 26 caracteres
                                     "description": "Reserva tu mesa fácilmente"
                                 },
                                 {
