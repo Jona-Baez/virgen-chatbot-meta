@@ -31,8 +31,8 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "Una oración para cada día del mes",//Limitado a 26 caracteres
-                                    "description": "*$30* 30 Oraciones poderosas, incluye novenas y plegarias milagrosas."//Limitado a 70 caracteres
+                                    "title": "Una oracion para cada dia del mes",//Limitado a 26 caracteres
+                                    "description": "30 Oraciones poderosas, incluye novenas y plegarias milagrosas."//Limitado a 70 caracteres
                                 }
                             ]
                         }
