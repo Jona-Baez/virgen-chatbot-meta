@@ -14,7 +14,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "action": {
-                    "button": "Ver las 10 opciones",
+                    "button": "Ver las 3 opciones",
                     "sections": [
                         {
                             "title": "Acciones",//Limitado a 10 acciones
