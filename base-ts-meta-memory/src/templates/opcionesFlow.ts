@@ -31,18 +31,18 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "k",//Limitado a 26 caracteres
-                                    "description": "k"//Limitado a 70 caracteres
+                                    "title": "",//Limitado a 26 caracteres
+                                    "description": ""//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119404",
-                                    "title": "k",//Limitado a 26 caracteres
-                                    "description": "k"//Limitado a 70 caracteres
+                                    "title": "",//Limitado a 26 caracteres
+                                    "description": ""//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119405",
-                                    "title": "kk",//Limitado a 26 caracteres
-                                    "description": "jk"//Limitado a 70 caracteres
+                                    "title": "",//Limitado a 26 caracteres
+                                    "description": ""//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119406",
