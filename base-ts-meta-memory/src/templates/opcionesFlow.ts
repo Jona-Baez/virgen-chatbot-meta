@@ -14,7 +14,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "action": {
-                    "button": "10 opciones",
+                    "button": "Ver las 10 opciones",
                     "sections": [
                         {
                             "title": "Acciones",
@@ -27,47 +27,47 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "SM23022502",
                                     "title": "📍 Sucursales y horarios",//Limitado a 26 caracteres
-                                    "description": "Conoce las diferentes ubicaciones"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022503",
                                     "title": "📅 Reservaciones",//Limitado a 26 caracteres
-                                    "description": "Reserva tu mesa fácilmente"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022504",
                                     "title": "🎉 Paquetes y eventos",//Limitado a 26 caracteres
-                                    "description": "Conoce nuestros paquetes especiales"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022505",
                                     "title": "🎟️ Promociones y cupones",//Limitado a 26 caracteres
-                                    "description": "Aprovecha nuestras ofertas exclusivas"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022506",
                                     "title": "📝 Quejas y sugerencias",//Limitado a 26 caracteres
-                                    "description": "Tu opinión nos ayuda a mejorar"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022507",
                                     "title": "📋 Contratación",//Limitado a 26 caracteres
-                                    "description": "Únete a nuestro equipo"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022508",
                                     "title": "💳 Facturación",//Limitado a 26 caracteres
-                                    "description": "Solicita tu factura aquí"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM230225audio",
                                     "title": "🎵 Audio",//Limitado a 26 caracteres
-                                    "description": "Puedes escuchar un audio"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM230225imagen",
                                     "title": "🎥 Imagen",//Limitado a 26 caracteres
-                                    "description": "Tambien recibe una imagen"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 }
                             ]
                         }
