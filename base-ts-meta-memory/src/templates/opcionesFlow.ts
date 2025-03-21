@@ -25,12 +25,12 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                     "description": "1. Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022502",
+                                    "id": "smartia119402",
                                     "title": "📍 Santo Rosario",//Limitado a 26 caracteres
                                     "description": "2. Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022503",
+                                    "id": "smartia119403",
                                     "title": "📅 Festividades",//Limitado a 26 caracteres
                                     "description": "3. Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 },

@@ -1,5 +1,5 @@
 import { addKeyword } from "@builderbot/bot";
 
-const sucursalesFlow= addKeyword("SM23022502")
+const dosFlow= addKeyword("smartia119402")
     .addAnswer("Da clic en en enlace de la sucursale que te interesa acudir:")
-export { sucursalesFlow };
+export { dosFlow };
