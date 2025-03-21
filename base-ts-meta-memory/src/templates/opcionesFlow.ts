@@ -14,7 +14,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "action": {
-                    "button": "Ver opciones",
+                    "button": "10 opciones",
                     "sections": [
                         {
                             "title": "Acciones",
@@ -22,7 +22,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "SM23022501",
                                     "title": "🍽️ Alimentos y bebidas",//Limitado a 26 caracteres
-                                    "description": "Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
+                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"
                                 },
                                 {
                                     "id": "SM23022502",
