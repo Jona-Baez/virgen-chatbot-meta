@@ -17,32 +17,32 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "button": "Ver las 10 opciones",
                     "sections": [
                         {
-                            "title": "Acciones",
+                            "title": "Acciones",//Limitado a 10 acciones
                             "rows": [
                                 {
                                     "id": "SM23022501",
                                     "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "1. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
+                                    "description": "1. Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "SM23022502",
-                                    "title": "📍 Sucursales y horarios",//Limitado a 26 caracteres
-                                    "description": "2. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
+                                    "title": "📍 Santo Rosario",//Limitado a 26 caracteres
+                                    "description": "2. Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "SM23022503",
-                                    "title": "📅 Reservaciones",//Limitado a 26 caracteres
-                                    "description": "3. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
+                                    "title": "📅 Festividades",//Limitado a 26 caracteres
+                                    "description": "3. Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "SM23022504",
-                                    "title": "🎉 Paquetes y eventos",//Limitado a 26 caracteres
-                                    "description": "4. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
+                                    "title": "🎉 Padir oraciones",//Limitado a 26 caracteres
+                                    "description": "4. Pedir oraciones y encender una vela virtual."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "SM23022505",
-                                    "title": "🎟️ Promociones y cupones",//Limitado a 26 caracteres
-                                    "description": "5. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
+                                    "title": "🎟️ Guías devocionales",//Limitado a 26 caracteres
+                                    "description": "5. Descargar materiales como oraciones y guías devocionales."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "SM23022506",
