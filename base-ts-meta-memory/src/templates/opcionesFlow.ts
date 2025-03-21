@@ -14,7 +14,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "action": {
-                    "button": "Ver las 10 opciones",
+                    "button": "Ver las 3 opciones",
                     "sections": [
                         {
                             "title": "Acciones",//Limitado a 10 acciones
@@ -22,17 +22,17 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119401",
                                     "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "1. Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
+                                    "description": "GRATIS. Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119402",
                                     "title": "📍 Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "2. GRATIS.Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
+                                    "description": "GRATIS. Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119403",
                                     "title": "📅 Festividades",//Limitado a 26 caracteres
-                                    "description": "3. Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
+                                    "description": "GRATIS Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 }/*,
                                 {
                                     "id": "smartia119404",
