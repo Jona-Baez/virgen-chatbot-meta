@@ -31,7 +31,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "📅 Una oración en cada dia",//Limitado a 26 caracteres
+                                    "title": "📅 Una oracion diaria",//Limitado a 26 caracteres
                                     "description": "45 PESOS Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 }/*,
                                 {
