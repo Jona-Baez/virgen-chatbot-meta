@@ -35,27 +35,27 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                     "description": "3. Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022504",
+                                    "id": "smartia119404",
                                     "title": "🎉 Padir oraciones",//Limitado a 26 caracteres
                                     "description": "4. Pedir oraciones y encender una vela virtual."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022505",
+                                    "id": "smartia119405",
                                     "title": "🎟️ Guías devocionales",//Limitado a 26 caracteres
                                     "description": "5. Descargar materiales como oraciones y guías devocionales."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022506",
+                                    "id": "smartia119406",
                                     "title": "📝 Quejas y sugerencias",//Limitado a 26 caracteres
                                     "description": "6. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022507",
+                                    "id": "smartia119407",
                                     "title": "📋 Contratación",//Limitado a 26 caracteres
                                     "description": "7. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM23022508",
+                                    "id": "smartia119408",
                                     "title": "💳 Facturación",//Limitado a 26 caracteres
                                     "description": "8. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
                                 },
