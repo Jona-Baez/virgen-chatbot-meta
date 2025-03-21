@@ -22,17 +22,17 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "smartia119401",
                                     "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "*GRATIS* Conoce la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
+                                    "description": "Conoce la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119402",
                                     "title": "📍 Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "*GRATIS* Aprende cómo rezar el Santo Rosario."//Limitado a 70 caracteres
+                                    "description": "Aprende cómo rezar el Santo Rosario."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119403",
                                     "title": "📅 Devocionario de la Virgen de Guadalupe",//Limitado a 26 caracteres
-                                    "description": "*GRATIS* Una oración para cada día del mes."//Limitado a 70 caracteres
+                                    "description": " Una oración para cada día del mes."//Limitado a 70 caracteres
                                 }/*,
                                 {
                                     "id": "smartia119404",
