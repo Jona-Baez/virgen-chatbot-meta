@@ -31,7 +31,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "📅 Festividades",//Limitado a 26 caracteres
+                                    "title": "📅 Devocionario de la Virgen de Guadalupe",//Limitado a 26 caracteres
                                     "description": "GRATIS Recibir recordatorios de fechas importantes y festividades."//Limitado a 70 caracteres
                                 }/*,
                                 {
