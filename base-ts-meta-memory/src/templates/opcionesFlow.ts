@@ -22,17 +22,17 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 {
                                     "id": "SM23022501",
                                     "title": "📖 Historia y milagros",//Limitado a 26 caracteres
-                                    "description": "Conocer la historia y milagros de la Virgen de Guadalupe."
+                                    "description": "a"
                                 },
                                 {
                                     "id": "SM23022502",
                                     "title": "🕊️ Santo Rosario",//Limitado a 26 caracteres
-                                    "description": "Aprender cómo rezar el Santo Rosario Guadalupano."
+                                    "description": "b."
                                 },
                                 {
                                     "id": "SM23022503",
                                     "title": "📅 Festividades",//Limitado a 26 caracteres
-                                    "description": "Recordatorios de fechas importantes y festividades"
+                                    "description": "c"
                                 },
                                 {
                                     "id": "SM23022504",
