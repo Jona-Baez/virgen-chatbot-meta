@@ -30,14 +30,9 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                     "description": "*GRATIS* Aprende cómo rezar el Santo Rosario."//Limitado a 70 caracteres
                                 },
                                 {
-                                    "id": "SM230225audio",
-                                    "title": "🎵 Audio",//Limitado a 26 caracteres
-                                    "description": "9. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta."//Limitado a 70 caracteres
-                                },
-                                {
-                                    "id": "SM230225imagen",
-                                    "title": "🎥 Imagen",//Limitado a 26 caracteres
-                                    "description": "10. Descarga nuestra cartaDescarga nuestra cartaDescarga nuestra carta"//Limitado a 70 caracteres
+                                    "id": "smartia119403",
+                                    "title": "Una oración para cada día del mes",//Limitado a 26 caracteres
+                                    "description": "*$30* 30 Oraciones poderosas, incluye novenas y plegarias milagrosas."//Limitado a 70 caracteres
                                 }
                             ]
                         }
