@@ -8,7 +8,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                     "text": ""
                 },
                 "body": {
-                    "text": "¿En qué te puedo ayudar?"
+                    "text": "Descarga y lleva la devoción a la Virgen de Guadalupe siempre contigo"
                 },
                 "footer": {
                     "text": ""
