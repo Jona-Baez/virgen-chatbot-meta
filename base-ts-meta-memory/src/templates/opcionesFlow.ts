@@ -26,13 +26,13 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "SM23022502",
-                                    "title": "🕊️ Santo Rosario Guadalupano",//Limitado a 26 caracteres
+                                    "title": "🕊️ Santo Rosario",//Limitado a 26 caracteres
                                     "description": "Aprender cómo rezar el Santo Rosario Guadalupano."
                                 },
                                 {
                                     "id": "SM23022503",
                                     "title": "📅 Festividades",//Limitado a 26 caracteres
-                                    "description": " Recibir recordatorios de fechas importantes y festividades"
+                                    "description": "Recordatorios de fechas importantes y festividades"
                                 },
                                 {
                                     "id": "SM23022504",
@@ -51,7 +51,7 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                                 },
                                 {
                                     "id": "SM23022507",
-                                    "title": "📋 Contratación",
+                                    "title": "",
                                     "description": ""
                                 },
                                 {
