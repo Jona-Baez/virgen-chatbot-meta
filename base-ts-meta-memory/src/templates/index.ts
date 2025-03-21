@@ -10,8 +10,8 @@ import { cincoFlow } from "./list_templates/cincoFlow";//5
 import { seisFlow } from "./list_templates/seisFlow";//6
 import { sieteFlow } from "./list_templates/sieteFlow";//7
 import { ochoFlow } from "./list_templates/ochoFlow";//8
-import { audioFlow } from "./list_templates/audioFlow";//9
-import { imagenFlow } from "./list_templates/imagenFlow";//10
+import { nueveFlow } from "./list_templates/nueveFlow";//9
+import { diezFlow } from "./list_templates/diezFlow";//10
 
 export default createFlow ([
     mainFlow,
@@ -24,6 +24,6 @@ export default createFlow ([
     seisFlow,//6
     sieteFlow,//7
     ochoFlow,//8
-    audioFlow,//9
-    imagenFlow//10
+    nueveFlow,//9
+    diezFlow//10
 ]);
