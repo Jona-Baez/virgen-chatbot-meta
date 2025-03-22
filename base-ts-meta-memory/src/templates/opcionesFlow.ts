@@ -21,18 +21,18 @@ const opcionesFlow = addKeyword('EVENTS.ACTION')
                             "rows": [
                                 {
                                     "id": "smartia119401",
-                                    "title": "🍽️ Historia y milagros",//Limitado a 26 caracteres
+                                    "title": "📜 Historia y milagros",//Limitado a 26 caracteres
                                     "description": " *GRATIS* Conocer la historia y milagros de la Virgen de Guadalupe."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119402",
-                                    "title": "📍 Santo Rosario",//Limitado a 26 caracteres
+                                    "title": "📿 Santo Rosario",//Limitado a 26 caracteres
                                     "description": " *GRATIS* Aprender cómo rezar el Santo Rosario Guadalupano."//Limitado a 70 caracteres
                                 },
                                 {
                                     "id": "smartia119403",
-                                    "title": "📅 Una oración diaria",//Limitado a 26 caracteres
-                                    "description": "*45 PESOS* Devocionarios y plegarias milagrosas para todo el mes."//Limitado a 70 caracteres
+                                    "title": "📖 Una oración diaria",//Limitado a 26 caracteres
+                                    "description": "*45 PESOS* Ebook de plegarias milagrosas para todo el mes."//Limitado a 70 caracteres
                                 }/*,
                                 {
                                     "id": "smartia119404",
